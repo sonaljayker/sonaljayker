@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I learn **DevOps by doing hands-on projects**, not just reading.  
+I learn **DevOps by doing hands-on projects**.  
 I focus on building **real-world solutions** like CI/CD pipelines, AWS networking, Proxmox VE, and automation scripts.  
 
 My goal is to become a **DevOps Engineer** who can automate workflows, work with cloud-native tools, and build **scalable, reliable systems**.
